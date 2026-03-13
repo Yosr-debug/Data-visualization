@@ -1,5 +1,5 @@
 # Cardiovascular Risk Explorer
-
+Réalisé par Yosr Abbassi et Naoures Khemiri
 Application Streamlit réalisée pour le **Parcours B - Projet personnel**.
 
 ## Objectif
